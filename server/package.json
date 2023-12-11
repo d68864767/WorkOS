@@ -1,0 +1,19 @@
+{
+  "name": "workos",
+  "version": "1.0.0",
+  "description": "WorkOS is a robust set of APIs designed to empower developers in making their applications enterprise-ready.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "saas",
+    "developer-tools",
+    "tech"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

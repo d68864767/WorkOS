@@ -1,0 +1,24 @@
+{
+  "name": "workos-admin-dashboard",
+  "version": "1.0.0",
+  "description": "WorkOS Admin Dashboard for managing enterprise settings",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "saas",
+    "developer-tools",
+    "tech"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  }
+}

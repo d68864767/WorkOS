@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Build
+/build/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+/client/node_modules/
+/oauth/node_modules/
+/graphql/node_modules/
+
+# Compiled output
+/client/build/
+/oauth/build/
+/graphql/build/
+
+# Miscellaneous
+.DS_Store

@@ -1,0 +1,19 @@
+{
+  "name": "workos-oauth",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 server for secure authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "saas",
+    "developer-tools",
+    "tech"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
